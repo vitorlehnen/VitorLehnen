@@ -19,6 +19,6 @@
 
     <div>
       <a href="https://br.linkedin.com/in/vitor-lehnen-3b0b73319?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-      <a href="mailto:vitorlehnen896@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="mailto:vitormateuslehnen1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     </div>
   
