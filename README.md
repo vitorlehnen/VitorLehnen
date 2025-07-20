@@ -1,24 +1,33 @@
-## Ola!Meu nome é Vitor Lehnen 👋
+## Olá! Meu nome é Vitor Lehnen 👋
 
-- Estudando para se tornar Full stack Developer.
+🎯 Estudando para me tornar um **Desenvolvedor Full Stack**
 
-  
-    <div>
-        <a href="https://github.com/vitorlehnen"></a>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorlehnen&show_icons=true">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorlehnen">
-    </div>
-    <div>
-        <img style="width:40px;height:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-        <img style="width:40px;height:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-        <img style="width:40px;height:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-        <img style="width:40px;height:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-    </div>
+---
 
-    ##
+### 🧰 Tecnologias que estou estudando:
+<div style="display: flex; gap: 10px;">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" />
+</div>
 
-    <div>
-      <a href="https://br.linkedin.com/in/vitor-lehnen-3b0b73319?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-      <a href="mailto:vitormateuslehnen1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    </div>
-  
+---
+
+### 📊 GitHub Stats:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorlehnen&show_icons=true&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorlehnen&layout=compact&theme=default" />
+</div>
+
+---
+
+### 📫 Entre em contato:
+<div>
+  <a href="https://br.linkedin.com/in/vitor-lehnen-3b0b73319" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vitormateuslehnen1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
