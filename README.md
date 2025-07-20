@@ -1,6 +1,6 @@
 ## Ola!Meu nome é Vitor Lehnen 👋
 
-- Sou estudante de programação que atua em ambas as áreas de front e back end.
+- Estudando para se tornar Full stack Developer.
 
   
     <div>
